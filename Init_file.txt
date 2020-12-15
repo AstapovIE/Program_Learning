@@ -1,3 +1,3 @@
 Test of git push function is succesfully!
-poprobyem izuchit
-cool!
+Hi! I'v already learned how to push)))
+Do you have free time on Thursday for our git/python lesson?))
