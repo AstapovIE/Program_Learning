@@ -1,1 +1,3 @@
 Test of git push function is succesfully!
+poprobyem izuchit
+cool!
